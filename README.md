@@ -4,6 +4,9 @@ Unpack and repack Tales Runner `.pkg` files.
 
 Drop a pkg, browse to one, or use Unpack / Repack. The key is detected automatically from the files inside the pkg.
 
+<img width="520" height="352" alt="pkg_tools" src="https://github.com/user-attachments/assets/8544d879-617f-41c5-9917-c2037bef1788" />
+
+
 ## Features
 
 - **Unpack** — decrypt and extract files from a `.pkg`
